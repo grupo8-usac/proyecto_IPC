@@ -1,0 +1,4 @@
+[{"id":1,"name":"Pizza","description":"Pizza Hawaiana","cost":40,"price":50,"ingredients":[{"name":"Piña","quantity":1,"units":"Unidades"}]},
+{"id":2,"name":"Hamburguesa","description":"Hamburguesa Hawaiana","cost":40,"price":50,"ingredients":[{"name":"Piña","quantity":1,"units":"Unidades"}]},
+{"id":3,"name":"Pastel","description":"Pastel Metro","cost":40,"price":50,"ingredients":[{"name":"Piña","quantity":1,"units":"Unidades"}]},
+{"id":4,"name":"Helado","description":"Helado de Chocolate","cost":40,"price":50,"ingredients":[{"name":"Piña","quantity":1,"units":"Unidades"}]}]
